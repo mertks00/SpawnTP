@@ -1,0 +1,10 @@
+setspawn-message: '&e[&bSpawnTP&e] &aSpawn Point Determined!'
+no-location: '&e[&bSpawnTP&e] &cLocation not found!'
+config-reload-message: '&e[&bSpawnTP&e] &aConfig Reloaded!'
+teleport-message: '&e[&bSpawnTP&e] &aYou are back to spawn!'
+no-permission: '&e[&bSpawnTP&e] &cYou don, t have permission for that.'
+
+spawn:
+  x: 0
+  y: 0
+  z: 0

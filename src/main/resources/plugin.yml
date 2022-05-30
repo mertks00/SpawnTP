@@ -1,0 +1,11 @@
+name: SpawnTP
+version: '${project.version}'
+main: me.oyuncozucu.spawntp.SpawnTP
+api-version: 1.16
+authors: [ mertks00 ]
+description: Spawn Plugin
+website: https://www.youtube.com/channel/UCsvLJq1UR8MfKuqbYuyvZtw
+commands:
+  setspawn:
+  spawn:
+  reload:
